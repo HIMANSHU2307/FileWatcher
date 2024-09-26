@@ -1,0 +1,5 @@
+{
+    "watch": "./watch",
+    "destination": "./destination",
+    "isDailyFolder": true
+}

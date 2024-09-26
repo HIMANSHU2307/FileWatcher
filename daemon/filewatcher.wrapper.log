@@ -1,0 +1,360 @@
+2023-09-25 16:46:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-25 16:46:40 - Started 15276
+2023-09-28 15:20:34 - Stopping filewatcher.exe
+2023-09-28 15:20:34 - ProcessKill 15276
+2023-09-28 15:20:34 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-28 15:21:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-28 15:21:25 - Started 7572
+2023-09-28 15:23:48 - Stopping filewatcher.exe
+2023-09-28 15:23:48 - ProcessKill 7572
+2023-09-28 15:23:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-28 15:25:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-28 15:25:10 - Started 7948
+2023-10-05 16:30:09 - Stopping filewatcher.exe
+2023-10-05 16:30:09 - ProcessKill 7948
+2023-10-05 16:30:09 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-05 16:31:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-05 16:31:11 - Started 7720
+2023-10-11 09:17:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-11 09:17:41 - Started 7096
+2023-10-25 15:57:33 - Stopping filewatcher.exe
+2023-10-25 15:57:33 - ProcessKill 7096
+2023-10-25 15:57:33 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-25 15:58:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-25 15:58:25 - Started 7636
+2023-10-25 15:58:41 - Stopping filewatcher.exe
+2023-10-25 15:58:41 - ProcessKill 7636
+2023-10-25 15:58:41 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-26 09:15:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-26 09:15:25 - Started 7820
+2023-10-27 16:37:00 - Stopping filewatcher.exe
+2023-10-27 16:37:00 - ProcessKill 7820
+2023-10-27 16:37:00 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-27 16:37:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-27 16:37:59 - Started 6816
+2023-10-27 16:40:16 - Stopping filewatcher.exe
+2023-10-27 16:40:16 - ProcessKill 6816
+2023-10-27 16:40:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-29 16:37:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-29 16:37:33 - Started 7772
+2023-11-24 11:04:01 - Stopping filewatcher.exe
+2023-11-24 11:04:01 - ProcessKill 7772
+2023-11-24 11:04:01 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-11-24 11:04:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-24 11:04:54 - Started 8132
+2023-12-08 09:27:21 - Stopping filewatcher.exe
+2023-12-08 09:27:21 - ProcessKill 8132
+2023-12-08 09:27:21 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-12-08 09:28:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-08 09:28:15 - Started 7984
+2024-01-03 09:57:13 - Stopping filewatcher.exe
+2024-01-03 09:57:13 - ProcessKill 7984
+2024-01-03 09:57:13 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-01-03 09:58:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-03 09:58:03 - Started 7640
+2024-01-09 15:29:08 - Stopping filewatcher.exe
+2024-01-09 15:29:08 - ProcessKill 7640
+2024-01-09 15:29:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-01-09 15:29:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-09 15:29:54 - Started 7856
+2024-01-10 14:49:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-10 14:49:03 - Started 7464
+2024-01-15 08:39:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-15 08:39:05 - Started 7484
+2024-01-23 11:19:31 - Stopping filewatcher.exe
+2024-01-23 11:19:31 - ProcessKill 7484
+2024-01-23 11:19:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-01-23 11:20:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-23 11:20:20 - Started 7768
+2024-01-29 16:31:10 - Stopping filewatcher.exe
+2024-01-29 16:31:10 - ProcessKill 7768
+2024-01-29 16:31:10 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-01-29 16:31:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-29 16:31:54 - Started 8336
+2024-01-30 11:47:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-01-30 11:47:14 - Started 7712
+2024-02-06 08:53:44 - Stopping filewatcher.exe
+2024-02-06 08:53:44 - ProcessKill 7712
+2024-02-06 08:53:44 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-02-06 08:54:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-06 08:54:35 - Started 7828
+2024-02-07 14:38:01 - Stopping filewatcher.exe
+2024-02-07 14:38:01 - ProcessKill 7828
+2024-02-07 14:38:01 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-02-07 14:38:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-07 14:38:54 - Started 8136
+2024-02-07 14:43:27 - Stopping filewatcher.exe
+2024-02-07 14:43:27 - ProcessKill 8136
+2024-02-07 14:43:27 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-02-07 14:44:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-07 14:44:13 - Started 7868
+2024-02-08 12:57:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-08 12:57:00 - Started 7688
+2024-02-15 08:54:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-15 08:54:34 - Started 7616
+2024-02-26 09:30:20 - Stopping filewatcher.exe
+2024-02-26 09:30:20 - ProcessKill 7616
+2024-02-26 09:30:20 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-02-26 09:31:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-26 09:31:10 - Started 7672
+2024-02-28 12:06:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-28 12:06:39 - Started 7644
+2024-02-29 14:36:11 - Stopping filewatcher.exe
+2024-02-29 14:36:11 - ProcessKill 7644
+2024-02-29 14:36:12 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-02-29 14:39:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-29 14:39:21 - Started 7860
+2024-02-29 15:43:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-02-29 15:43:53 - Started 7664
+2024-03-01 15:45:14 - Stopping filewatcher.exe
+2024-03-01 15:45:14 - ProcessKill 7664
+2024-03-01 15:45:14 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-03-01 15:46:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-01 15:46:00 - Started 7716
+2024-03-05 09:09:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-05 09:09:33 - Started 7948
+2024-03-06 09:14:03 - Stopping filewatcher.exe
+2024-03-06 09:14:03 - ProcessKill 7948
+2024-03-06 09:14:03 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-03-06 09:14:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-06 09:14:50 - Started 7716
+2024-03-08 13:13:41 - Stopping filewatcher.exe
+2024-03-08 13:13:41 - ProcessKill 7716
+2024-03-08 13:13:41 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2024-03-08 13:14:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-08 13:14:28 - Started 8136
+2024-03-11 15:41:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-11 15:41:34 - Started 7640
+2024-03-12 09:38:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\github\fileWatcher\node_modules\node-windows\lib\wrapper.js --file C:\github\fileWatcher\index.js --scriptoptions= --log "FileWatcher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-12 09:38:18 - Started 7656
